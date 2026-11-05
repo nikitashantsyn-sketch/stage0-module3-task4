@@ -2,11 +2,11 @@ package school.mjc.stage0.module3.task4;
 
 public class IntRepresentation {
     public static void main(String[] args) {
-        int c = 'c';
-        int h = (int)'h';
-        int a = (int)'a';
-        int r = (int)'r';
-        System.out.println(c);
+        char e = (int)'c';
+        char h = (int)'h';
+        char a = (int)'a';
+        char r = (int)'r';
+        System.out.println(e);
         System.out.println(h);
         System.out.println(a);
         System.out.println(r);
